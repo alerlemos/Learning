@@ -4,5 +4,5 @@
 
 <h3>Course available at: <a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/">Udemy.</a></h3>
 
-<h3>Why am I doing this course?</h3>
+<h3>Motivation</h3>
 My motivation to start learning about Django is to learn how to create applications that can help me bring my ideas to life.
